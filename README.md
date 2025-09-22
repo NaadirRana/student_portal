@@ -1,4 +1,4 @@
-#student portal
+student portal
 
 A simple project that applies django in the practise of how to use templates and github . 
  
